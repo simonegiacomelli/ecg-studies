@@ -4,8 +4,6 @@
 
 Sure, I can provide you with direct links to the datasets on PhysioNet along with their full descriptions. Below are the datasets with clickable links for easy access:
 
-- **[ANSI/AAMI EC13 Test Waveforms](https://physionet.org/content/aami-ec13/1.0.0/)**: This dataset includes both synthetic and real waveforms used to test the performance of electrocardiographic equipment. It is excellent for beginners to understand how ECG machines calibrate and interpret signals.
-
 - **[Fantasia Database](https://physionet.org/content/fantasia/1.0.0/)**: ECG and respiration signals collected from 40 young and elderly subjects during supine resting. The recordings are simple and clear, making it ideal for studying normal heart rhythms and basic signal processing techniques.
 
 - **[MIT-BIH Normal Sinus Rhythm Database](https://physionet.org/content/nsrdb/1.0.0/)**: This database contains 18 long-term ECG recordings of subjects referred to the Arrhythmia Laboratory for suspected arrhythmias but found to have none. It's an excellent resource for studying normal heart rhythms.
