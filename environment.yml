@@ -6,3 +6,4 @@ dependencies:
   - pip
   - pip:
     - wfdb
+    - tensorflow==2.15.0
