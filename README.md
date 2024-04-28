@@ -8,7 +8,7 @@ Sure, I can provide you with direct links to the datasets on PhysioNet along wit
 
 - **[MIT-BIH Normal Sinus Rhythm Database](https://physionet.org/content/nsrdb/1.0.0/)**: This database contains 18 long-term ECG recordings of subjects referred to the Arrhythmia Laboratory for suspected arrhythmias but found to have none. It's an excellent resource for studying normal heart rhythms.
 
-- **[Icentia11k Single Lead Continuous Raw Electrocardiogram Dataset](https://physionet.org/content/icentia11k/1.0.0/)**: Featuring continuous raw ECG signals from 11,000 patients, this dataset offers a rich resource for learning about ECG signal processing and exploring how to handle and analyze raw data.
+- **[Icentia11k Single Lead Continuous Raw Electrocardiogram Dataset](https://physionet.org/content/icentia11k-continuous-ecg/1.0/)**: Featuring continuous raw ECG signals from 11,000 patients, this dataset offers a rich resource for learning about ECG signal processing and exploring how to handle and analyze raw data.
 
 - **[Lobachevsky University Electrocardiography Database](https://physionet.org/content/ludb/1.0.0/)**: This database consists of 200 10-second 12-lead ECG records, with annotations for the boundaries and peaks of P, T waves, and QRS complexes. It serves as an excellent educational tool for understanding the components of ECG signals in detail.
 
