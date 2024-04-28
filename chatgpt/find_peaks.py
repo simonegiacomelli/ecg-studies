@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from scipy.signal import find_peaks, butter, filtfilt
 
 # Load ECG data
-ecg_data = np.fromfile('../dataset/fantasia_csv/f1o01.csv', sep=',')[0:500]
+ecg_data = np.fromfile('dataset/fantasia_csv/f1o01.csv', sep=',')[0:500]
 
 # Filter settings
 fs = 250  # Sample rate in Hz
