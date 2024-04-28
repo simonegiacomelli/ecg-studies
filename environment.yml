@@ -7,3 +7,4 @@ dependencies:
   - pip:
     - wfdb
     - tensorflow==2.15.0
+    - neurokit2==0.2.7
