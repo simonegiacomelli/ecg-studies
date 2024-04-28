@@ -1,18 +1,16 @@
 import numpy as np
-import tensorflow as tf
 from tensorflow.keras.models import Model
 from tensorflow.keras.layers import Input, Dense
-from tensorflow.keras.optimizers import Adam
 
 # Assuming ecg_data is a preprocessed dataset where each sample is a 1D numpy array
 # For the sake of example, let's generate some random data as a placeholder
-ecg_data = np.random.randn(1000, 256)  # 1000 samples, 256 timesteps each
+input_dim = 256  # number of timesteps in each sample
+ecg_data = np.random.randn(1000, input_dim)  # 1000 samples, 256 timesteps each
 
 # Normalizing the data (ensure this matches your preprocessing needs)
 ecg_data = (ecg_data - np.mean(ecg_data)) / np.std(ecg_data)
 
 # Parameters
-input_dim = ecg_data.shape[1]  # number of timesteps in each sample
 encoding_dim = 32  # Size of the encoding
 
 # Define the encoder
